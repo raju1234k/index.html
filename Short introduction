@@ -3,8 +3,8 @@
 <head>
      <title>Fullstack Course</title>
 </head>
-<body>
-    <h1><center>Motihari College of Engineering, Motihari</center></h1>
+<body style="color: blue;" background="sun.jpg.jpg">
+    <h1 style="color: black;" ><center>Motihari College of Engineering, Motihari</center></h1>
 <h4><center>Name- Raju Kumar </center></h4>
 <h4><center>Roll No- 21366</center></h4> 
 <h4><center>Registration NO- 2110511****</center></h4>
